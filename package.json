@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/valleykid/isomorphic-demo/issues"
   },
-  "homepage": "https://github.com/valleykid/isomorphic-demo#readme"
+  "homepage": "https://github.com/valleykid/isomorphic-demo#readme",
+  "dependencies": {
+    "hapi": "^17.4.0"
+  }
 }
